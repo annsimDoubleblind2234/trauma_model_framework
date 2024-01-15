@@ -1,6 +1,6 @@
 # Trauma Model Framework
 
-This version of the repo is designed for the double-blind review of the paper "FLEXIBLE MODEL FRAMEWORK FOR DESIGNING TRAUMA-INFORMED AGENT BASED MODELS" for the ANNSIM 2024 conference.
+This version of the repo is designed for the double-blind review of the paper "INCORPORATING TRAUMA PROPAGATION AND TRANSMISSION IN AGENT BASED MODELS: A PRELIMINARY FRAMEWORK" for the ANNSIM 2024 conference.
 
 This framework requires the use of Anaconda (https://www.anaconda.com/download)
 
