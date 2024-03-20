@@ -7,7 +7,7 @@ from tqdm import tqdm
 # max step count of simulation
 step_count = 2500
 # number of monte-carlo simulation runs
-mc_iters = 2
+mc_iters = 10
 
 # post trauma event average trauma levels
 post_te_avg_tl = []
